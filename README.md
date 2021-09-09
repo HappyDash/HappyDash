@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning MySQL and ReactJS.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Contact me at +1 (352)-888-3682 or Mail me at sankalppandey1993@gmail.com
-- 
 
 <!---
 HappyDash/HappyDash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
